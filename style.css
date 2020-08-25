@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+    margin: 30px;
+    background-color: antiquewhite;
+}
+
+#oshi-container{
+    max-width: 300px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 6px;
+}
+#oshi-image{
+    width: 100%;
+    height: auto;
+}
+#oshi-name{
+    text-align: center;
+}
+#oshi-title{
+    text-align: center;
+}
